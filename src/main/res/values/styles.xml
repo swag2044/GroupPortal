@@ -1,0 +1,28 @@
+<resources>
+    <style name="ScreenTitle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_size_title</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/primary_dark</item>
+        <item name="android:layout_marginBottom">16dp</item>
+    </style>
+
+    <style name="StudentCard">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_size_body</item>
+        <item name="android:padding">@dimen/card_padding</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:background">@color/card_background</item>
+        <item name="android:layout_marginBottom">@dimen/card_margin_bottom</item>
+    </style>
+
+    <style name="AppButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/card_background</item>
+        <item name="android:layout_marginTop">16dp</item>
+    </style>
+</resources>

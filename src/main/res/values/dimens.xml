@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="activity_padding">24dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="card_margin_bottom">12dp</dimen>
+    <dimen name="text_size_title">20sp</dimen>
+    <dimen name="text_size_body">16sp</dimen>
+</resources>
